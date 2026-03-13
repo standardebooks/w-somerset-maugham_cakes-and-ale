@@ -25,7 +25,8 @@ p[epub|type~="z3998:salutation"]{
 	font-variant: small-caps;
 }
 
-.telegram{
+.telegram,
+.telegram [epub|type~="z3998:signature"]{
 	font-variant: all-small-caps;
 }
 
