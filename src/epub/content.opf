@@ -36,7 +36,7 @@
 		<meta property="title-type" refines="#subtitle">subtitle</meta>
 		<dc:title id="fulltitle">Cakes and Ale; or, The Skeleton in the Cupboard</dc:title>
 		<meta property="file-as" refines="#fulltitle">Cakes and Ale</meta>
-		<meta property="title-type" refines="#fulltitle">extended</meta>
+		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<dc:subject id="subject-1">Authors' spouses--Fiction</dc:subject>
 		<dc:subject id="subject-2">Married people--Fiction</dc:subject>
 		<dc:subject id="subject-3">Biographers--Fiction</dc:subject>
